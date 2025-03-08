@@ -4,7 +4,6 @@ Welcome to the Banking System project! This Java-based application allows you to
 # Project Structure
 - 'src/': Contains the Java source code files.
 - 'database/': Includes SQL scripts for database setup.
-- 'screenshots/': Screenshots of the application in action.
 
 #  Features
 - User Registration & Login
